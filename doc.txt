@@ -1,0 +1,12 @@
+Hello grove ,
+
+I have analysed all your code and almost worked properly to do the tasks that you assigned me ,
+firstly it was giving column and table error so fixed it then I have worked on popup design for 
+scroll and border and then when I was hitting yes then it was giving issue so I elaborate it 
+again and seen the connections from web to bll and dal and I got to know that the corresponding
+stored procedure is missing and name of procedure is "UDP_BulkInstallUser" but I have handled 
+it with a message popup of null value . But without the related procedure I can not see and 
+resolve it perfectly.
+
+
+Thanks 
