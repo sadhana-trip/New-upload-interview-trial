@@ -1,0 +1,12 @@
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.dll.config
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.dll
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.pdb
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.csprojResolveAssemblyReference.cache
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.dll
+D:\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.pdb
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.dll.config
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.dll
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\bin\JG_Prospect.WebAPI.pdb
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.csprojResolveAssemblyReference.cache
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.dll
+D:\Anand\InterviewTasks-master\JG_Prospect-New\JG_Prospect.WebAPI\obj\Debug\JG_Prospect.WebAPI.pdb
